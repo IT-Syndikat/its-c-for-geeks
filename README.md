@@ -1,5 +1,9 @@
 # C for Geeks
 
+<p align="center">
+  <img alt="Banner" src="images/banner.png">
+</p>
+
 ## Prerequisites
 
 Windows users should set up WSL.
