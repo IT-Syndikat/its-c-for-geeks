@@ -14,6 +14,8 @@ Windows users should set up WSL.
 
 ## Syllabus
 
+See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming) for code examples.
+
 - **Lecture -2:** mathematics background
     - numbers and their representation (base 2, 8, 10, 16)
     - bits and bytes, and their limitations
