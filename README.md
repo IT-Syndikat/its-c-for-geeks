@@ -66,7 +66,6 @@ See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming
 
 - **Lecture 5:** Branching
     - `if` / `else`
-    - `switch`
 
 - **Lecture 6:** Loops
     - `while` / `do while`
@@ -83,7 +82,7 @@ See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming
 - **Exercise:** *Zapfen*
     - Read in integer from user.
     - Continuously multiply with numbers from 2 to 12 (inclusive).
-    - Then continuously divide by numbers from 12 to 2 (inclusive).
+    - Then continuously divide by numbers from 2 to 12 (inclusive).
     - Try this for large user inputs.
     - Try this with unsigned.
     - Try this with float.
