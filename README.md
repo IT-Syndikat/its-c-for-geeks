@@ -48,11 +48,11 @@ See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming
     - boolean in C
     - scope
 
-- **Lecture 2:** Simple I/O
+- **Lecture 3:** Simple I/O
     - `puts` / `printf`
     - `getchar` / `scanf`
 
-- **Lecture 3:** arithmetic
+- **Lecture 4:** arithmetic
     - precedence
     - integer arithmetic
     - floating point arithmetic
@@ -64,11 +64,11 @@ See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming
     - increment / decrement operators
         - sequence points
 
-- **Lecture 4:** Branching
+- **Lecture 5:** Branching
     - `if` / `else`
     - `switch`
 
-- **Lecture 5:** Loops
+- **Lecture 6:** Loops
     - `while` / `do while`
     - `for`
     - `break` / `continue`
@@ -99,21 +99,21 @@ See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming
 - **Exercise:** [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
     - Calculate the first 10 rows of Pascal's triangle and print them.
 
-- **Lecture 6:** Functions
+- **Lecture 7:** Functions
     - normal
     - recursion
 
-- **Lecture 7:** Pointers
+- **Lecture 8:** Pointers
 
-- **Lecture 8:** Arrays
+- **Lecture 9:** Arrays
     - 1D
     - more dimensions
     - strings
     - pointer-decay
 
-- **Lecture 9:** Enums
+- **Lecture 10:** Enums
 
-- **Lecture 10:** `struct`
+- **Lecture 11:** `struct`
     - `union`
     - recursive structures
 
