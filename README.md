@@ -89,18 +89,22 @@ See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming
 
 - **Exercise:** [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))
     - See `rand(3)`.
+    - Include `time.h` and call `srand(time(NULL));` once before using `rand` to *seed* the random number generator (RNG).
     - Randomly pick 4 integers between 1 and 6 (inclusive).
-    - User has to guess the combination by entering the sequence of numbers separated by spaces.
+    - User has to guess the combination by entering a sequence of numbers separated by spaces.
     - User can guess 10 times.
-    - Game ends when user guessed correctly or all guesses have been exceeded.
+    - Game ends when user guessed correctly or all guesses have been exhausted.
     - Program will output hints on wrong guesses.
 
-- **Exercise:** [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
-    - Calculate the first 10 rows of Pascal's triangle and print them.
+- **Exercise:** Prime Numbers
+    - Output all prime numbers from 1 to 100.
 
 - **Lecture 7:** Functions
     - normal
     - recursion
+
+- **Exercise:** Better Prime Numbers
+    - Rewrite the prime numbers exercise to use a function `is_prime`.
 
 - **Lecture 8:** Pointers
 
@@ -110,15 +114,20 @@ See [my C programming repo](https://github.com/W4RH4WK/UIBK-703004-C-Programming
     - strings
     - pointer-decay
 
+- **Exercise:** [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
+    - Calculate the first 10 rows of Pascal's triangle and print them.
+    - Use an array.
+
+- **Exercise:** [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
+    - Read in two strings from the user.
+    - Output the corresponding Levenshtein distance.
+    - Put the Levenshtein calculation in a dedicated function.
+
 - **Lecture 10:** Enums
 
 - **Lecture 11:** `struct`
     - `union`
     - recursive structures
-
-- **Exercise:** [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
-    - Read in two strings from the user.
-    - Output the corresponding Levenshtein distance.
 
 - **Exercise:** [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
     - See `fopen(3)` and `fwrite(3)`
